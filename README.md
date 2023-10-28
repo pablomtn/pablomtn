@@ -20,5 +20,7 @@ Soy estudiante de la carrera Analista de Sistemas, actualmente cursando 4ºto se
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pablomtn&icon=1&color=10)](https://visitcount.itsvg.in)
+![Texto alternativo](https://github.com/pablomtn/snake.git)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
