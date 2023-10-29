@@ -11,11 +11,6 @@ Soy estudiante de la carrera Analista de Sistemas, actualmente cursando 4ºto se
 ![](https://github-readme-stats.vercel.app/api?username=pablomtn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pablomtn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomtn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pablomtn&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=pablomtn&icon=1&color=10)](https://visitcount.itsvg.in)
 
 
